@@ -1,4 +1,11 @@
 ## Hi there 👋
+My name is gustav and im a student from germany. 
+Im currently gettinh into the topic of ai, since i see too many oppurtunities for me not to want in on it. At this point of writing i don't have a clear direction or goal. which i shall pursue, but i can say that i am working towards starting a side hustle, in hope's of generating a couple hundred euros per month. 
+I finish school in summer of 2027 and my dream is to be able to travel without having to worry to much about financial stability. 
+A friend of mine mentioned something called operating systems and i thought why not gve it a go, so i will try and build my own one using github and connecting it to chatgpt. 
+Im very interested in finance, especially financial markets but also everything concerning business in genreall. 
+In my opinion ai will shape the future of business and entrepreneurship and everyone who doesnt adopt it in one way or another will be left behind. Forr that reason i am here trying to learn whatever i can.
+This is all i have to say about me for now and i probally will revise this in the future, but till then i hope that everyones work and life is going well.
 
 <!--
 **gustavgraeve-dev/gustavgraeve-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
